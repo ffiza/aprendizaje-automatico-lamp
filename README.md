@@ -11,5 +11,10 @@ de la Universidad de Buenos Aires.
 El repositorio de la materia puede
 encontrarse [acá](https://github.com/Laboratorio-Computacion-Cientifica/TSWC-Aprendizaje-Automatico-Fundamentos-y-Aplicaciones-en-Meteorologia-del-Espacio).
 
-* Coorinador: Dr. Sergio Dasso
+* Coordinador: Dr. Sergio Dasso
 * Docentes: Dra. María Graciela Molina, Lic. Jorge H. Namour
+
+## Descripción
+
+* **TP 0**:
+* **TP 1**:
