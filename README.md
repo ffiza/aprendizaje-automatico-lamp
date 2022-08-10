@@ -1,6 +1,6 @@
 <div align="center">
-    <h1>Aprendizaje automático</h1>
-    <h3>Fundamentos y aplicaciones en meterología del espacio</h3>
+    <h1>Aprendizaje automático:
+    Fundamentos y aplicaciones en meterología del espacio</h1>
 </div>
 
 Python scripts y notebooks desarrollados para el curso
