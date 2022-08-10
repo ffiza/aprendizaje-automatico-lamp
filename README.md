@@ -16,6 +16,6 @@ encontrarse [acá](https://github.com/Laboratorio-Computacion-Cientifica/TSWC-Ap
 
 ## Descripción
 
-### TP 0
+### Trabajo práctico 0
 
-### TP 1
+### Trabajo práctico 1
