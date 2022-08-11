@@ -25,8 +25,8 @@ diversos formatos).
 
 ### Trabajo práctico 0
 
-El trabajo práctico 0 contiene cosas sencillas relacionadas con el
-entrenamiento de un modelo lineal.
+El trabajo práctico 0 contiene análisis sencillos relacionados con el
+entrenamiento de un modelo lineal; esto puede encontrarse en ```code/tp0.ipynb```.
 
 ### Trabajo práctico 1
 
