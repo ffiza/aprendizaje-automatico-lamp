@@ -32,6 +32,6 @@ entrenamiento de un modelo lineal.
 
 El primer trabajo práctico consiste en la clasificación de señales de radar
 (parte 1) y de eyecciones de masa coronal (CMEs) haciendo uso de una red
-neuronal (ANN). El código principal está contenido en el notebok ```tp1.ipynb```
-mientras que el archivo ```tp1_settings.py``` contiene la configuración
+neuronal (ANN). El código principal está contenido en el notebok ```code/tp1.ipynb```
+mientras que el archivo ```code/tp1_settings.py``` contiene la configuración
 de la arquitectura de la ANN.
