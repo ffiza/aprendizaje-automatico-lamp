@@ -8,8 +8,7 @@ Python scripts y notebooks desarrollados para el curso
 dictado en agosto de 2022 en La Facultad de Ciencias Exactas y Naturales
 de la Universidad de Buenos Aires.
 
-El repositorio de la materia puede
-encontrarse [acá](https://github.com/Laboratorio-Computacion-Cientifica/TSWC-Aprendizaje-Automatico-Fundamentos-y-Aplicaciones-en-Meteorologia-del-Espacio).
+Más información puede encontrarse en el [repositorio de la materia](https://github.com/Laboratorio-Computacion-Cientifica/TSWC-Aprendizaje-Automatico-Fundamentos-y-Aplicaciones-en-Meteorologia-del-Espacio).
 
 * Coordinador: Dr. Sergio Dasso
 * Docentes: Dra. María Graciela Molina, Lic. Jorge H. Namour
