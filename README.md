@@ -25,10 +25,13 @@ diversos formatos).
 
 ### Trabajo práctico 0
 
+El trabajo práctico 0 contiene cosas sencillas relacionadas con el
+entrenamiento de un modelo lineal.
+
+### Trabajo práctico 1
+
 El primer trabajo práctico consiste en la clasificación de señales de radar
 (parte 1) y de eyecciones de masa coronal (CMEs) haciendo uso de una red
 neuronal (ANN). El código principal está contenido en el notebok ```tp1.ipynb```
 mientras que el archivo ```tp1_settings.py``` contiene la configuración
 de la arquitectura de la ANN.
-
-### Trabajo práctico 1
