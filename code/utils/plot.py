@@ -1,6 +1,5 @@
 # ----------------------------------------------------------------------------
 # Title:   Function to configure plot style
-# Author:  Federico Iza
 # ----------------------------------------------------------------------------
 import matplotlib.pyplot as plt
 from distutils.spawn import find_executable
@@ -33,13 +32,13 @@ def config_plots():
               'ytick.minor.right': 'on',
               'ytick.direction': 'in',
               'xtick.major.width': TICK_MAJOR_WIDTH,
-              'xtick.major.size':  TICK_MAJOR_SIZE,
+              'xtick.major.size': TICK_MAJOR_SIZE,
               'xtick.minor.width': TICK_MINOR_WIDTH,
-              'xtick.minor.size':  TICK_MINOR_SIZE,
+              'xtick.minor.size': TICK_MINOR_SIZE,
               'ytick.major.width': TICK_MAJOR_WIDTH,
-              'ytick.major.size':  TICK_MAJOR_SIZE,
+              'ytick.major.size': TICK_MAJOR_SIZE,
               'ytick.minor.width': TICK_MINOR_WIDTH,
-              'ytick.minor.size':  TICK_MINOR_SIZE,
+              'ytick.minor.size': TICK_MINOR_SIZE,
               'savefig.dpi': DPI,
               'savefig.bbox': 'tight',
               'savefig.pad_inches': PAD_INCHES,
