@@ -3,9 +3,9 @@
     Fundamentos y aplicaciones en meterología del espacio</h1>
 </div>
 
-Python scripts y notebooks desarrollados para el curso
+Scripts y notebooks de Python desarrollados para el curso
 "Aprendizaje automático: Fundamentos y aplicaciones en meterología del espacio",
-dictado en agosto de 2022 en La Facultad de Ciencias Exactas y Naturales
+dictado en agosto de 2022 en la Facultad de Ciencias Exactas y Naturales
 de la Universidad de Buenos Aires.
 
 Más información puede encontrarse en el [repositorio de la materia](https://github.com/Laboratorio-Computacion-Cientifica/TSWC-Aprendizaje-Automatico-Fundamentos-y-Aplicaciones-en-Meteorologia-del-Espacio).
@@ -26,12 +26,14 @@ diversos formatos).
 ### Trabajo práctico 0
 
 El trabajo práctico 0 contiene análisis sencillos relacionados con el
-entrenamiento de un modelo lineal; esto puede encontrarse en ```code/tp0.ipynb```.
+entrenamiento de un modelo lineal; esto puede encontrarse en el notebook
+```code/tp0.ipynb```.
 
 ### Trabajo práctico 1
 
 El primer trabajo práctico consiste en la clasificación de señales de radar
-(parte 1) y de eyecciones de masa coronal (CMEs) haciendo uso de una red
-neuronal (ANN). El código principal está contenido en el notebok ```code/tp1.ipynb```
-mientras que el archivo ```code/tp1_settings.py``` contiene la configuración
-de la arquitectura de la ANN.
+(parte 1) y de eyecciones de masa coronal (CMEs, parte 2) haciendo uso de una red
+neuronal (ANN). El código de la primera parte está contenido en el notebok
+```code/tp1_radar.ipynb``` con la configuración en
+```code/tp1_radar_settings.py```. La segunda parte está en el notebook 
+```code/t1_cmes.ipynb``` con la configración en ```code/tp1_cmes_settings.py```.
