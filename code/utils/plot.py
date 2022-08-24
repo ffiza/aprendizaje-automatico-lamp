@@ -1,6 +1,4 @@
-# ----------------------------------------------------------------------------
 # Title:   Function to configure plot style
-# ----------------------------------------------------------------------------
 import matplotlib.pyplot as plt
 from distutils.spawn import find_executable
 
@@ -17,7 +15,10 @@ TICK_MINOR_SIZE = 1.5
 LEGEND_FONTSIZE = 6
 
 
-def config_plots():
+def config_plots() -> None:
+    """
+    This function configurates the default Matpltlib variables.
+    """
     params = {'figure.dpi': DPI,
               'figure.figsize': FIGSIZE,
               'font.size': FONTSIZE,
