@@ -37,3 +37,10 @@ neuronal (ANN). El código de la primera parte está contenido en el notebok
 ```code/tp1_radar.ipynb``` con la configuración en
 ```code/tp1_radar_settings.py```. La segunda parte está en el notebook 
 ```code/t1_cmes.ipynb``` con la configración en ```code/tp1_cmes_settings.py```.
+
+### Trabajo práctico 2
+
+El segundo trabajo consiste en la predicción de datos a partir de una serie
+temporal del índice geomagnético SYM-H. El código principal se puede encontrar
+en el notebook ```code/tp2.ipynb``` y la configuración en 
+```code/tp2_settings.py```.
